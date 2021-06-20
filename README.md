@@ -21,6 +21,6 @@ Overall, this is a project. It won't be the best, it won't be the fastest and it
 
 I aim to allow the models and algorithms used in this project to work on a variety of different hardware specifications for embedded systems. I'm starting with the [Nvidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) as its pretty powerful and has GPU hardware acceleration. I'll move on to the [Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) once I'm confident the code works in C/C++.
 
--[] Computer System
--[] Nvidia Jetson Nano
--[] Raspberry Pi
+- [] Computer System
+- [] Nvidia Jetson Nano
+- [] Raspberry Pi
