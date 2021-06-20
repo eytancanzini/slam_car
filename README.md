@@ -1,4 +1,4 @@
-# Autonomous Driving Methods for the Nvidia Jetson Nano
+# Autonomous Driving Algorithms
 
 ## Brief
 
